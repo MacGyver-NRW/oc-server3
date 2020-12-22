@@ -1,0 +1,21 @@
+@import '../lib/variables';
+
+.card-title {
+  color: $oc-font-dark;
+
+  &-dark {
+    color: $oc-font-light;
+  }
+}
+
+.card-body {
+  color: $oc-font-dark;
+
+  a {
+    color: $oc-font-dark;
+  }
+
+  &-dark {
+    color: $oc-font-light;
+  }
+}
