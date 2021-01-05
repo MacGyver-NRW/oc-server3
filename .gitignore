@@ -67,7 +67,8 @@ htdocs/translation.zip
 .psh.yaml
 .php_cs.cache
 /phpunit
-/node_modules
+htdocs/node_modules
+node_modules
 htdocs/app/config/swiftmailer.yaml.tpl
 
 /htdocs/app/.preload.php
